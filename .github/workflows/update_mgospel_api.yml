@@ -32,7 +32,7 @@ jobs:
 
           git add mgospel-api/*.json
 
-          git diff --cached --quiet || exit 0
-
-          git commit -m "Auto-update MGospel API database"
-          git push
+          git diff --cached --quiet || (
+            git commit -m "Auto-update MGospel API database" && 
+            git push
+          )
