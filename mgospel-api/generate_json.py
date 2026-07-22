@@ -7,7 +7,7 @@ URLS = {
     "songs": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmoASBLW5ypa93xt-gIMFYuILZrBgMgAL60ZUjrdXrL9mFwrduS0ZwsUsFyldN-qKj_4iFvGSf0X5O/pub?gid=0&single=true&output=csv",
     "artists": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmoASBLW5ypa93xt-gIMFYuILZrBgMgAL60ZUjrdXrL9mFwrduS0ZwsUsFyldN-qKj_4iFvGSf0X5O/pub?gid=151712368&single=true&output=csv",
     "albums": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmoASBLW5ypa93xt-gIMFYuILZrBgMgAL60ZUjrdXrL9mFwrduS0ZwsUsFyldN-qKj_4iFvGSf0X5O/pub?gid=269740144&single=true&output=csv",
-    "events": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmoASBLW5ypa93xt-gIMFYuILZrBgMgAL60ZUjrdXrL9mFwrduS0ZwsUsFyldN-qKj_4iFvGSf0X5O/pub?gid=160527248&single=true&output=csv"
+    "collections": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmoASBLW5ypa93xt-gIMFYuILZrBgMgAL60ZUjrdXrL9mFwrduS0ZwsUsFyldN-qKj_4iFvGSf0X5O/pub?gid=160527248&single=true&output=csv"
 }
 
 def download_and_convert():
