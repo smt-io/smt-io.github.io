@@ -5,9 +5,7 @@ import urllib.request
 # Google Sheet CSV URLs (your links)
 URLS = {
     "cumtumyanmar": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTpuroWI-gl-l77Rg2YBLgbXGpoudQawRZ0SWI_s1f58C-C9BAqSzkIO1ZX-f_aynkSTChXJfBncede/pub?gid=0&single=true&output=csv",
-    "myanmarcumtu": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTpuroWI-gl-l77Rg2YBLgbXGpoudQawRZ0SWI_s1f58C-C9BAqSzkIO1ZX-f_aynkSTChXJfBncede/pub?gid=1456915011&single=true&output=csv",
-    "myanmar_master": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTpuroWI-gl-l77Rg2YBLgbXGpoudQawRZ0SWI_s1f58C-C9BAqSzkIO1ZX-f_aynkSTChXJfBncede/pub?gid=1903282468&single=true&output=csv",
-    "cumtu_contributions": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTpuroWI-gl-l77Rg2YBLgbXGpoudQawRZ0SWI_s1f58C-C9BAqSzkIO1ZX-f_aynkSTChXJfBncede/pub?gid=409749199&single=true&output=csv"
+    "myanmarcumtu": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTpuroWI-gl-l77Rg2YBLgbXGpoudQawRZ0SWI_s1f58C-C9BAqSzkIO1ZX-f_aynkSTChXJfBncede/pub?gid=1456915011&single=true&output=csv"
 }
 
 def download_and_convert():
