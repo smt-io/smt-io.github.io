@@ -9939,9 +9939,18 @@
     "id": "1105",
     "word": "ကစွန်းဥ",
     "pos": "n",
-    "meaning": "kang zoi uq",
-    "audio": "https://pub-b425b50831714ed188ce256de95db612.r2.dev/audio_pending/voice_46_1786159333377.webm",
+    "meaning": "",
+    "audio": "https://pub-b425b50831714ed188ce256de95db612.r2.dev/audio/voice_46_1786159333377.webm",
     "img": "",
     "myanmar_id": "46"
+  },
+  {
+    "id": "1106",
+    "word": "ကကတစ်",
+    "pos": "",
+    "meaning": "",
+    "audio": "https://pub-b425b50831714ed188ce256de95db612.r2.dev/audio/voice_10_1786131448958.webm",
+    "img": "",
+    "myanmar_id": "10"
   }
 ]
