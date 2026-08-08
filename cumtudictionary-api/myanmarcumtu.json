@@ -11,7 +11,7 @@
   {
     "id": "",
     "word": "ကြက်ကလေး",
-    "pos": "n",
+    "pos": "",
     "meaning": "acaw",
     "audio": "",
     "img": "",
@@ -9934,5 +9934,14 @@
     "audio": "",
     "img": "",
     "myanmar_id": ""
+  },
+  {
+    "id": "1105",
+    "word": "ကစွန်းဥ",
+    "pos": "n",
+    "meaning": "ကစွန်းဥ",
+    "audio": "https://pub-b425b50831714ed188ce256de95db612.r2.dev/audio_pending/voice_46_1786159333377.webm",
+    "img": "",
+    "myanmar_id": "46"
   }
 ]
