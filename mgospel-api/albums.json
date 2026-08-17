@@ -31,596 +31,601 @@
   },
   {
     "id": "7",
+    "album": "ဘုရားသခင်၏ကလေးငယ်များ",
+    "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%81%E1%80%84%E1%80%BA%E1%81%8F%E1%80%80%E1%80%9C%E1%80%B1%E1%80%B8%E1%80%84%E1%80%9A%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8.png"
+  },
+  {
+    "id": "8",
     "album": "အချစ်ရှိတဲ့နေရာ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%81%E1%80%BB%E1%80%85%E1%80%BA%E1%80%9B%E1%80%BE%E1%80%AD%E1%80%90%E1%80%B2%E1%80%B7%E1%80%94%E1%80%B1%E1%80%9B%E1%80%AC.jpg"
   },
   {
-    "id": "8",
+    "id": "9",
     "album": "ကိုယ်တော်မရှိလျှင်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%9A%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%99%E1%80%9B%E1%80%BE%E1%80%AD%E1%80%9C%E1%80%BB%E1%80%BE%E1%80%84%E1%80%BA.jpg"
   },
   {
-    "id": "9",
+    "id": "10",
     "album": "သန့်ရှင်းသောမီး",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9E%E1%80%94%E1%80%B7%E1%80%BA%E1%80%9B%E1%80%BE%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%99%E1%80%AE%E1%80%B8.jpg"
   },
   {
-    "id": "10",
+    "id": "11",
     "album": "Thank You Lord",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/Thank%20You%20Lord.jpg"
   },
   {
-    "id": "11",
+    "id": "12",
     "album": "My King",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/My%20King.jpg"
   },
   {
-    "id": "12",
+    "id": "13",
     "album": "ငြိမ်းချမ်းရေးမြစ်တစ်စင်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%84%E1%80%BC%E1%80%AD%E1%80%99%E1%80%BA%E1%80%B8%E1%80%81%E1%80%BB%E1%80%99%E1%80%BA%E1%80%B8%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%99%E1%80%BC%E1%80%85%E1%80%BA%E1%80%90%E1%80%85%E1%80%BA%E1%80%85%E1%80%84%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "13",
+    "id": "14",
     "album": "သန့်ရှင်းမြင့်မြတ်သူ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9E%E1%80%94%E1%80%B7%E1%80%BA%E1%80%9B%E1%80%BE%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BC%E1%80%84%E1%80%B7%E1%80%BA%E1%80%99%E1%80%BC%E1%80%90%E1%80%BA%E1%80%9E%E1%80%B0.jpg"
   },
   {
-    "id": "14",
+    "id": "15",
     "album": "လမ်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9C%E1%80%99%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "15",
+    "id": "16",
     "album": "Never Say Die",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/Never%20Say%20Die.jpg"
   },
   {
-    "id": "16",
+    "id": "17",
     "album": "အရိပ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%9B%E1%80%AD%E1%80%95%E1%80%BA.jpg"
   },
   {
-    "id": "17",
+    "id": "18",
     "album": "ကျွန်ုပ်၏အလိုအပ်ဆုံးဟာကိုယ်တော်သာ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%BB%E1%80%BD%E1%80%94%E1%80%BA%E1%80%AF%E1%80%95%E1%80%BA%E1%81%8F%E1%80%A1%E1%80%9C%E1%80%AD%E1%80%AF%E1%80%A1%E1%80%95%E1%80%BA%E1%80%86%E1%80%AF%E1%80%B6%E1%80%B8%E1%80%9F%E1%80%AC%E1%80%80%E1%80%AD%E1%80%AF%E1%80%9A%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%9E%E1%80%AC.jpg"
   },
   {
-    "id": "18",
+    "id": "19",
     "album": "ကိုးစားမျှော်ကြည့်ရာ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%85%E1%80%AC%E1%80%B8%E1%80%99%E1%80%BB%E1%80%BE%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%80%E1%80%BC%E1%80%8A%E1%80%B7%E1%80%BA%E1%80%9B%E1%80%AC.jpg"
   },
   {
-    "id": "19",
+    "id": "20",
     "album": "ထွက်မြောက်ရာ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%91%E1%80%BD%E1%80%80%E1%80%BA%E1%80%99%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%9B%E1%80%AC.jpg"
   },
   {
-    "id": "20",
+    "id": "21",
     "album": "နိုးထမှုမြစ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%94%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%91%E1%80%99%E1%80%BE%E1%80%AF%E1%80%99%E1%80%BC%E1%80%85%E1%80%BA.jpg"
   },
   {
-    "id": "21",
+    "id": "22",
     "album": "ချစ်ခြင်းဖွဲ့သီချင်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%81%E1%80%BB%E1%80%85%E1%80%BA%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%96%E1%80%BD%E1%80%B2%E1%80%B7%E1%80%9E%E1%80%AE%E1%80%81%E1%80%BB%E1%80%84%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "22",
+    "id": "23",
     "album": "ကျွန်ုပ်ဝိညာဉ်ဆက်ကပ်ပါ၏",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%BB%E1%80%BD%E1%80%94%E1%80%BA%E1%80%AF%E1%80%95%E1%80%BA%E1%80%9D%E1%80%AD%E1%80%8A%E1%80%AC%E1%80%89%E1%80%BA%E1%80%86%E1%80%80%E1%80%BA%E1%80%80%E1%80%95%E1%80%BA%E1%80%95%E1%80%AB%E1%81%8F.jpg"
   },
   {
-    "id": "23",
+    "id": "24",
     "album": "လောင်ကျွမ်းစေပါ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9C%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%80%E1%80%BB%E1%80%BD%E1%80%99%E1%80%BA%E1%80%B8%E1%80%85%E1%80%B1%E1%80%95%E1%80%AB.jpg"
   },
   {
-    "id": "24",
+    "id": "25",
     "album": "God Bless Myanmar",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/God%20Bless%20Myanmar.jpg"
   },
   {
-    "id": "25",
+    "id": "26",
     "album": "သခင့်အတွက်သီချင်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9E%E1%80%81%E1%80%84%E1%80%B7%E1%80%BA%E1%80%A1%E1%80%90%E1%80%BD%E1%80%80%E1%80%BA%E1%80%9E%E1%80%AE%E1%80%81%E1%80%BB%E1%80%84%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "26",
+    "id": "27",
     "album": "ဌာနတော်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%8C%E1%80%AC%E1%80%94%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA.jpg"
   },
   {
-    "id": "27",
+    "id": "28",
     "album": "ဘုရားပေးသောသံစဉ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%95%E1%80%B1%E1%80%B8%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%9E%E1%80%B6%E1%80%85%E1%80%89%E1%80%BA.jpg"
   },
   {
-    "id": "28",
+    "id": "29",
     "album": "ဘဝရှုခင်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%98%E1%80%9D%E1%80%9B%E1%80%BE%E1%80%AF%E1%80%81%E1%80%84%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "29",
+    "id": "30",
     "album": "ကျမ်းစကားသက်သေ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%BB%E1%80%99%E1%80%BA%E1%80%B8%E1%80%85%E1%80%80%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%80%E1%80%BA%E1%80%9E%E1%80%B1.jpg"
   },
   {
-    "id": "30",
+    "id": "31",
     "album": "ဆုံဆည်းခွင့်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%86%E1%80%AF%E1%80%B6%E1%80%86%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%81%E1%80%BD%E1%80%84%E1%80%B7%E1%80%BA.jpg"
   },
   {
-    "id": "31",
+    "id": "32",
     "album": "နားခိုရာ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%94%E1%80%AC%E1%80%B8%E1%80%81%E1%80%AD%E1%80%AF%E1%80%9B%E1%80%AC.jpg"
   },
   {
-    "id": "32",
+    "id": "33",
     "album": "God Bless You",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/God%20Bless%20You.jpg"
   },
   {
-    "id": "33",
+    "id": "34",
     "album": "မြည်တမ်းစကား",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%99%E1%80%BC%E1%80%8A%E1%80%BA%E1%80%90%E1%80%99%E1%80%BA%E1%80%B8%E1%80%85%E1%80%80%E1%80%AC%E1%80%B8.jpg"
   },
   {
-    "id": "34",
+    "id": "35",
     "album": "ကမ်းလက်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%99%E1%80%BA%E1%80%B8%E1%80%9C%E1%80%80%E1%80%BA.jpg"
   },
   {
-    "id": "35",
+    "id": "36",
     "album": "ဆန္ဒ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%86%E1%80%94%E1%80%B9%E1%80%92.jpg"
   },
   {
-    "id": "36",
+    "id": "37",
     "album": "လမ်းတစ်ခုအကြောင်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9C%E1%80%99%E1%80%BA%E1%80%B8%E1%80%90%E1%80%85%E1%80%BA%E1%80%81%E1%80%AF%E1%80%A1%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "37",
+    "id": "38",
     "album": "ယုံကြည်ခြင်းမျိုးစေ့",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9A%E1%80%AF%E1%80%B6%E1%80%80%E1%80%BC%E1%80%8A%E1%80%BA%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%85%E1%80%B1%E1%80%B7.jpg"
   },
   {
-    "id": "38",
+    "id": "39",
     "album": "ခိုလှုံရာသခင်ယေရှု",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%81%E1%80%AD%E1%80%AF%E1%80%9C%E1%80%BE%E1%80%AF%E1%80%B6%E1%80%9B%E1%80%AC%E1%80%9E%E1%80%81%E1%80%84%E1%80%BA%E1%80%9A%E1%80%B1%E1%80%9B%E1%80%BE%E1%80%AF.jpg"
   },
   {
-    "id": "39",
+    "id": "40",
     "album": "ကိုယ်တွေ့",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%9A%E1%80%BA%E1%80%90%E1%80%BD%E1%80%B1%E1%80%B7.jpg"
   },
   {
-    "id": "40",
+    "id": "41",
     "album": "ကြိုနေမယ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%94%E1%80%B1%E1%80%99%E1%80%9A%E1%80%BA.jpg"
   },
   {
-    "id": "41",
+    "id": "42",
     "album": "ဘဝလှေငယ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%98%E1%80%9D%E1%80%9C%E1%80%BE%E1%80%B1%E1%80%84%E1%80%9A%E1%80%BA.jpg"
   },
   {
-    "id": "42",
+    "id": "43",
     "album": "နွေးထွေးသောရင်ခွင်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%94%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%91%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%9B%E1%80%84%E1%80%BA%E1%80%81%E1%80%BD%E1%80%84%E1%80%BA.jpg"
   },
   {
-    "id": "43",
+    "id": "44",
     "album": "Second Chance",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/Second%20Chance.jpg"
   },
   {
-    "id": "44",
+    "id": "45",
     "album": "လက်တော်ဝယ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9C%E1%80%80%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%9D%E1%80%9A%E1%80%BA.jpg"
   },
   {
-    "id": "45",
+    "id": "46",
     "album": "MYC နှစ်(၃၀)ပြည့်အထိမ်းအမှတ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/MYC%20%E1%80%94%E1%80%BE%E1%80%85%E1%80%BA(%E1%81%83%E1%81%80)%E1%80%95%E1%80%BC%E1%80%8A%E1%80%B7%E1%80%BA%E1%80%A1%E1%80%91%E1%80%AD%E1%80%99%E1%80%BA%E1%80%B8%E1%80%A1%E1%80%99%E1%80%BE%E1%80%90%E1%80%BA.jpg"
   },
   {
-    "id": "46",
+    "id": "47",
     "album": "ကရာနီဆူးခက်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%9B%E1%80%AC%E1%80%94%E1%80%AE%E1%80%86%E1%80%B0%E1%80%B8%E1%80%81%E1%80%80%E1%80%BA.jpg"
   },
   {
-    "id": "47",
+    "id": "48",
     "album": "လောကနှင့်မဆိုင်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9C%E1%80%B1%E1%80%AC%E1%80%80%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%E1%80%99%E1%80%86%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA.jpg"
   },
   {
-    "id": "48",
+    "id": "49",
     "album": "အနတ္တမှထာဝရသို့",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%94%E1%80%90%E1%80%B9%E1%80%90%E1%80%99%E1%80%BE%E1%80%91%E1%80%AC%E1%80%9D%E1%80%9B%E1%80%9E%E1%80%AD%E1%80%AF%E1%80%B7.jpg"
   },
   {
-    "id": "49",
+    "id": "50",
     "album": "အန္တိမခရီးသည်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%94%E1%80%B9%E1%80%90%E1%80%AD%E1%80%99%E1%80%81%E1%80%9B%E1%80%AE%E1%80%B8%E1%80%9E%E1%80%8A%E1%80%BA.jpg"
   },
   {
-    "id": "50",
+    "id": "51",
     "album": "တိုး၍နားလည်ထပ်ဆင့်ခံစား",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%90%E1%80%AD%E1%80%AF%E1%80%B8%E1%81%8D%E1%80%94%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%8A%E1%80%BA%E1%80%91%E1%80%95%E1%80%BA%E1%80%86%E1%80%84%E1%80%B7%E1%80%BA%E1%80%81%E1%80%B6%E1%80%85%E1%80%AC%E1%80%B8.jpg"
   },
   {
-    "id": "51",
+    "id": "52",
     "album": "ထိုနေရာ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%91%E1%80%AD%E1%80%AF%E1%80%94%E1%80%B1%E1%80%9B%E1%80%AC.jpg"
   },
   {
-    "id": "52",
+    "id": "53",
     "album": "ကိုယ်တော်အတွက်ဖြစ်စေမည်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%9A%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%A1%E1%80%90%E1%80%BD%E1%80%80%E1%80%BA%E1%80%96%E1%80%BC%E1%80%85%E1%80%BA%E1%80%85%E1%80%B1%E1%80%99%E1%80%8A%E1%80%BA.jpg"
   },
   {
-    "id": "53",
+    "id": "54",
     "album": "ရာပြည့်မှတ်တိုင်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9B%E1%80%AC%E1%80%95%E1%80%BC%E1%80%8A%E1%80%B7%E1%80%BA%E1%80%99%E1%80%BE%E1%80%90%E1%80%BA%E1%80%90%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA.jpg"
   },
   {
-    "id": "54",
+    "id": "55",
     "album": "သတို့သမီးကောင်းကင်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9E%E1%80%90%E1%80%AD%E1%80%AF%E1%80%B7%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%E1%80%80%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%80%E1%80%84%E1%80%BA.jpg"
   },
   {
-    "id": "55",
+    "id": "56",
     "album": "Youth Evolution (1)",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/Youth%20Evolution%20(1).jpg"
   },
   {
-    "id": "56",
+    "id": "57",
     "album": "လှပသောနိဂုံး",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9C%E1%80%BE%E1%80%95%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%94%E1%80%AD%E1%80%82%E1%80%AF%E1%80%B6%E1%80%B8.jpg"
   },
   {
-    "id": "57",
+    "id": "58",
     "album": "ကိုယ်တော်အမြဲရှိတယ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%9A%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%A1%E1%80%99%E1%80%BC%E1%80%B2%E1%80%9B%E1%80%BE%E1%80%AD%E1%80%90%E1%80%9A%E1%80%BA.jpg"
   },
   {
-    "id": "58",
+    "id": "59",
     "album": "ငြိမ်သက်ခြင်းလွင်ပြင်သီချင်းများ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%84%E1%80%BC%E1%80%AD%E1%80%99%E1%80%BA%E1%80%9E%E1%80%80%E1%80%BA%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9C%E1%80%BD%E1%80%84%E1%80%BA%E1%80%95%E1%80%BC%E1%80%84%E1%80%BA%E1%80%9E%E1%80%AE%E1%80%81%E1%80%BB%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8.jpg"
   },
   {
-    "id": "59",
+    "id": "60",
     "album": "ချစ်လက်ကမ်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%81%E1%80%BB%E1%80%85%E1%80%BA%E1%80%9C%E1%80%80%E1%80%BA%E1%80%80%E1%80%99%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "60",
+    "id": "61",
     "album": "အစဉ်ချီးမွမ်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%85%E1%80%89%E1%80%BA%E1%80%81%E1%80%BB%E1%80%AE%E1%80%B8%E1%80%99%E1%80%BD%E1%80%99%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "61",
+    "id": "62",
     "album": "ကိုးကွယ်ရာနှလုံးသား",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%80%E1%80%BD%E1%80%9A%E1%80%BA%E1%80%9B%E1%80%AC%E1%80%94%E1%80%BE%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8%E1%80%9E%E1%80%AC%E1%80%B8.jpg"
   },
   {
-    "id": "62",
+    "id": "63",
     "album": "သန့်ရှင်းသောဘုရ���း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9E%E1%80%94%E1%80%B7%E1%80%BA%E1%80%9B%E1%80%BE%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%98%E1%80%AF%E1%80%9B%EF%BF%BD%EF%BF%BD%EF%BF%BD%E1%80%B8.jpg"
   },
   {
-    "id": "63",
+    "id": "64",
     "album": "ဘယ်သွားမှာလဲ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%98%E1%80%9A%E1%80%BA%E1%80%9E%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%99%E1%80%BE%E1%80%AC%E1%80%9C%E1%80%B2.jpg"
   },
   {
-    "id": "64",
+    "id": "65",
     "album": "ကျွန်ုပ်၏နေရာ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%BB%E1%80%BD%E1%80%94%E1%80%BA%E1%80%AF%E1%80%95%E1%80%BA%E1%81%8F%E1%80%94%E1%80%B1%E1%80%9B%E1%80%AC.jpg"
   },
   {
-    "id": "65",
+    "id": "66",
     "album": "အမွန်မြတ်ဆုံး",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%99%E1%80%BD%E1%80%94%E1%80%BA%E1%80%99%E1%80%BC%E1%80%90%E1%80%BA%E1%80%86%E1%80%AF%E1%80%B6%E1%80%B8.jpg"
   },
   {
-    "id": "66",
+    "id": "67",
     "album": "ပန်းတိုင်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%95%E1%80%94%E1%80%BA%E1%80%B8%E1%80%90%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA.jpg"
   },
   {
-    "id": "67",
+    "id": "68",
     "album": "အားသစ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%85%E1%80%BA.jpg"
   },
   {
-    "id": "68",
+    "id": "69",
     "album": "ကောင်းကင်ဖခင်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%80%E1%80%84%E1%80%BA%E1%80%96%E1%80%81%E1%80%84%E1%80%BA.jpg"
   },
   {
-    "id": "69",
+    "id": "70",
     "album": "ရေပေါ်ကအရိပ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9B%E1%80%B1%E1%80%95%E1%80%B1%E1%80%AB%E1%80%BA%E1%80%80%E1%80%A1%E1%80%9B%E1%80%AD%E1%80%95%E1%80%BA.jpg"
   },
   {
-    "id": "70",
+    "id": "71",
     "album": "မှန်သောစည်း��ိမ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%99%E1%80%BE%E1%80%94%E1%80%BA%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%85%E1%80%8A%E1%80%BA%E1%80%B8%EF%BF%BD%EF%BF%BD%E1%80%AD%E1%80%99%E1%80%BA.jpg"
   },
   {
-    "id": "71",
+    "id": "72",
     "album": "ကျွန်ုပ်၏အရာခပ်သိမ်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%BB%E1%80%BD%E1%80%94%E1%80%BA%E1%80%AF%E1%80%95%E1%80%BA%E1%81%8F%E1%80%A1%E1%80%9B%E1%80%AC%E1%80%81%E1%80%95%E1%80%BA%E1%80%9E%E1%80%AD%E1%80%99%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "72",
+    "id": "73",
     "album": "ရင်ခွင်သစ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9B%E1%80%84%E1%80%BA%E1%80%81%E1%80%BD%E1%80%84%E1%80%BA%E1%80%9E%E1%80%85%E1%80%BA.jpg"
   },
   {
-    "id": "73",
+    "id": "74",
     "album": "ပဿခါသီချင်းများ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%95%E1%80%BF%E1%80%81%E1%80%AB%E1%80%9E%E1%80%AE%E1%80%81%E1%80%BB%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8.jpg"
   },
   {
-    "id": "74",
+    "id": "75",
     "album": "လောကအလင်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9C%E1%80%B1%E1%80%AC%E1%80%80%E1%80%A1%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "75",
+    "id": "76",
     "album": "ငြိမ်းချမ်းခြင်းသခင်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%84%E1%80%BC%E1%80%AD%E1%80%99%E1%80%BA%E1%80%B8%E1%80%81%E1%80%BB%E1%80%99%E1%80%BA%E1%80%B8%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%81%E1%80%84%E1%80%BA.jpg"
   },
   {
-    "id": "76",
+    "id": "77",
     "album": "မီးပြတိုက်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%99%E1%80%AE%E1%80%B8%E1%80%95%E1%80%BC%E1%80%90%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA.jpg"
   },
   {
-    "id": "77",
+    "id": "78",
     "album": "အာခေါင်ကပ်ပါစေ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%AC%E1%80%81%E1%80%B1%E1%80%AB%E1%80%84%E1%80%BA%E1%80%80%E1%80%95%E1%80%BA%E1%80%95%E1%80%AB%E1%80%85%E1%80%B1.jpg"
   },
   {
-    "id": "78",
+    "id": "79",
     "album": "Vision",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/Vision.jpg"
   },
   {
-    "id": "79",
+    "id": "80",
     "album": "မေတ္တာစက်ဝိုင်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC%E1%80%85%E1%80%80%E1%80%BA%E1%80%9D%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "80",
+    "id": "81",
     "album": "မျှော်လင့်ရာလမ်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%99%E1%80%BB%E1%80%BE%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%9C%E1%80%84%E1%80%B7%E1%80%BA%E1%80%9B%E1%80%AC%E1%80%9C%E1%80%99%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "81",
+    "id": "82",
     "album": "ကောင်းသောမြေ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%99%E1%80%BC%E1%80%B1.jpg"
   },
   {
-    "id": "82",
+    "id": "83",
     "album": "ယာယီတဲ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9A%E1%80%AC%E1%80%9A%E1%80%AE%E1%80%90%E1%80%B2.jpg"
   },
   {
-    "id": "83",
+    "id": "84",
     "album": "ရွက်လွှင့်နေဆဲ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9B%E1%80%BD%E1%80%80%E1%80%BA%E1%80%9C%E1%80%BD%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%E1%80%94%E1%80%B1%E1%80%86%E1%80%B2.jpg"
   },
   {
-    "id": "84",
+    "id": "85",
     "album": "သခင့်ရဲ့အနား",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9E%E1%80%81%E1%80%84%E1%80%B7%E1%80%BA%E1%80%9B%E1%80%B2%E1%80%B7%E1%80%A1%E1%80%94%E1%80%AC%E1%80%B8.jpg"
   },
   {
-    "id": "85",
+    "id": "86",
     "album": "တိုင်တော်သီချင်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%90%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%9E%E1%80%AE%E1%80%81%E1%80%BB%E1%80%84%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "86",
+    "id": "87",
     "album": "ကောင်းကင်တံခါးဖွင့်လျက်နေ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%80%E1%80%84%E1%80%BA%E1%80%90%E1%80%B6%E1%80%81%E1%80%AB%E1%80%B8%E1%80%96%E1%80%BD%E1%80%84%E1%80%B7%E1%80%BA%E1%80%9C%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%B1.jpg"
   },
   {
-    "id": "87",
+    "id": "88",
     "album": "ဆန္ဒတစ်ခု",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%86%E1%80%94%E1%80%B9%E1%80%92%E1%80%90%E1%80%85%E1%80%BA%E1%80%81%E1%80%AF.jpg"
   },
   {
-    "id": "88",
+    "id": "89",
     "album": "ထလော့",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%91%E1%80%9C%E1%80%B1%E1%80%AC%E1%80%B7.jpg"
   },
   {
-    "id": "89",
+    "id": "90",
     "album": "ဘဝရဲ့နေရာ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%98%E1%80%9D%E1%80%9B%E1%80%B2%E1%80%B7%E1%80%94%E1%80%B1%E1%80%9B%E1%80%AC.jpg"
   },
   {
-    "id": "90",
+    "id": "91",
     "album": "မမေ့အပ်သောနေ့ရက်များ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%99%E1%80%99%E1%80%B1%E1%80%B7%E1%80%A1%E1%80%95%E1%80%BA%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8.jpg"
   },
   {
-    "id": "91",
+    "id": "92",
     "album": "စတေးခြင်းမေတ္တာ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%85%E1%80%90%E1%80%B1%E1%80%B8%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC.jpg"
   },
   {
-    "id": "92",
+    "id": "93",
     "album": "နှစ်သက်ဖွယ်ယဇ်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%94%E1%80%BE%E1%80%85%E1%80%BA%E1%80%9E%E1%80%80%E1%80%BA%E1%80%96%E1%80%BD%E1%80%9A%E1%80%BA%E1%80%9A%E1%80%87%E1%80%BA.jpg"
   },
   {
-    "id": "93",
+    "id": "94",
     "album": "New Doxology",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/New%20Doxology.jpg"
   },
   {
-    "id": "94",
+    "id": "95",
     "album": "နှလုံးသားအသစ်ကိုပူဇော်ပါ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%94%E1%80%BE%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%A1%E1%80%9E%E1%80%85%E1%80%BA%E1%80%80%E1%80%AD%E1%80%AF%E1%80%95%E1%80%B0%E1%80%87%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%95%E1%80%AB.jpg"
   },
   {
-    "id": "95",
+    "id": "96",
     "album": "လူမျိုးအပေါင်းတို့ထာဝရဘုရားကိုချီးမွမ်းကြလော့",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9C%E1%80%B0%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%B1%E1%80%AB%E1%80%84%E1%80%BA%E1%80%B8%E1%80%90%E1%80%AD%E1%80%AF%E1%80%B7%E1%80%91%E1%80%AC%E1%80%9D%E1%80%9B%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%80%E1%80%AD%E1%80%AF%E1%80%81%E1%80%BB%E1%80%AE%E1%80%B8%E1%80%99%E1%80%BD%E1%80%99%E1%80%BA%E1%80%B8%E1%80%80%E1%80%BC%E1%80%9C%E1%80%B1%E1%80%AC%E1%80%B7.jpg"
   },
   {
-    "id": "96",
+    "id": "97",
     "album": "နောက်လှည့်မကြည့်နဲ့",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%94%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%9C%E1%80%BE%E1%80%8A%E1%80%B7%E1%80%BA%E1%80%99%E1%80%80%E1%80%BC%E1%80%8A%E1%80%B7%E1%80%BA%E1%80%94%E1%80%B2%E1%80%B7.jpg"
   },
   {
-    "id": "97",
+    "id": "98",
     "album": "ကျောက်ဆောင်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%80%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%86%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA.jpg"
   },
   {
-    "id": "98",
+    "id": "99",
     "album": "နောက်ကသုည",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%94%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%80%E1%80%9E%E1%80%AF%E1%80%8A.jpg"
   },
   {
-    "id": "99",
+    "id": "100",
     "album": "ပေးမျှပါ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%95%E1%80%B1%E1%80%B8%E1%80%99%E1%80%BB%E1%80%BE%E1%80%95%E1%80%AB.jpg"
   },
   {
-    "id": "100",
+    "id": "101",
     "album": "အနှိုင်းမဲ့ကျေးဇူးတော်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%94%E1%80%BE%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%B2%E1%80%B7%E1%80%80%E1%80%BB%E1%80%B1%E1%80%B8%E1%80%87%E1%80%B0%E1%80%B8%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA.jpg"
   },
   {
-    "id": "101",
+    "id": "102",
     "album": "အမြဲစိမ်းသစ်ပင်လို",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%99%E1%80%BC%E1%80%B2%E1%80%85%E1%80%AD%E1%80%99%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%85%E1%80%BA%E1%80%95%E1%80%84%E1%80%BA%E1%80%9C%E1%80%AD%E1%80%AF.jpg"
   },
   {
-    "id": "102",
+    "id": "103",
     "album": "သင့်အတွက်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9E%E1%80%84%E1%80%B7%E1%80%BA%E1%80%A1%E1%80%90%E1%80%BD%E1%80%80%E1%80%BA.jpg"
   },
   {
-    "id": "103",
+    "id": "104",
     "album": "သူရဲကောင်း",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9E%E1%80%B0%E1%80%9B%E1%80%B2%E1%80%80%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8.jpg"
   },
   {
-    "id": "104",
+    "id": "105",
     "album": "The Answer",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/The%20Answer.jpg"
   },
   {
-    "id": "105",
+    "id": "106",
     "album": "အလင်းသက်သေ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%80%E1%80%BA%E1%80%9E%E1%80%B1.jpg"
   },
   {
-    "id": "106",
+    "id": "107",
     "album": "အလင်းခွန်အား",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B8%E1%80%81%E1%80%BD%E1%80%94%E1%80%BA%E1%80%A1%E1%80%AC%E1%80%B8.jpg"
   },
   {
-    "id": "107",
+    "id": "108",
     "album": "သီးသန့်ဆုံတွေ့သောနေရာ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9E%E1%80%AE%E1%80%B8%E1%80%9E%E1%80%94%E1%80%B7%E1%80%BA%E1%80%86%E1%80%AF%E1%80%B6%E1%80%90%E1%80%BD%E1%80%B1%E1%80%B7%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%94%E1%80%B1%E1%80%9B%E1%80%AC.jpg"
   },
   {
-    "id": "108",
+    "id": "109",
     "album": "သူရှိမှ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9E%E1%80%B0%E1%80%9B%E1%80%BE%E1%80%AD%E1%80%99%E1%80%BE.jpg"
   },
   {
-    "id": "109",
+    "id": "110",
     "album": "တည်နေမည့်ကတိတော်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%90%E1%80%8A%E1%80%BA%E1%80%94%E1%80%B1%E1%80%99%E1%80%8A%E1%80%B7%E1%80%BA%E1%80%80%E1%80%90%E1%80%AD%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA.jpg"
   },
   {
-    "id": "110",
+    "id": "111",
     "album": "အနှိုင်းမဲ့သောယေရှု",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%94%E1%80%BE%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%B2%E1%80%B7%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%9A%E1%80%B1%E1%80%9B%E1%80%BE%E1%80%AF.jpg"
   },
   {
-    "id": "111",
+    "id": "112",
     "album": "အလင်းရဲ့တံခါးဝ (၁)",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9B%E1%80%B2%E1%80%B7%E1%80%90%E1%80%B6%E1%80%81%E1%80%AB%E1%80%B8%E1%80%9D%20(%E1%81%81).jpg"
   },
   {
-    "id": "112",
+    "id": "113",
     "album": "အထံတော်ပါး",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%91%E1%80%B6%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%95%E1%80%AB%E1%80%B8.jpg"
   },
   {
-    "id": "113",
+    "id": "114",
     "album": "အမြင့်မြတ်ဆုံး",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%99%E1%80%BC%E1%80%84%E1%80%B7%E1%80%BA%E1%80%99%E1%80%BC%E1%80%90%E1%80%BA%E1%80%86%E1%80%AF%E1%80%B6%E1%80%B8.jpg"
   },
   {
-    "id": "114",
+    "id": "115",
     "album": "အလင်းတွေ့ချိန်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B8%E1%80%90%E1%80%BD%E1%80%B1%E1%80%B7%E1%80%81%E1%80%BB%E1%80%AD%E1%80%94%E1%80%BA.jpg"
   },
   {
-    "id": "115",
+    "id": "116",
     "album": "သူ့ရင်ခွင်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9E%E1%80%B0%E1%80%B7%E1%80%9B%E1%80%84%E1%80%BA%E1%80%81%E1%80%BD%E1%80%84%E1%80%BA.jpg"
   },
   {
-    "id": "116",
+    "id": "117",
     "album": "အနဂ္ဃအိမ်တေ��်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%94%E1%80%82%E1%80%B9%E1%80%83%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%90%E1%80%B1%EF%BF%BD%EF%BF%BD%E1%80%BA.jpg"
   },
   {
-    "id": "117",
+    "id": "118",
     "album": "အနှိုင်းမရှိ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%A1%E1%80%94%E1%80%BE%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%9B%E1%80%BE%E1%80%AD.jpg"
   },
   {
-    "id": "118",
+    "id": "119",
     "album": "မနက်ဖြန်အတွက်မစိုးရိမ်နှင့်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%99%E1%80%94%E1%80%80%E1%80%BA%E1%80%96%E1%80%BC%E1%80%94%E1%80%BA%E1%80%A1%E1%80%90%E1%80%BD%E1%80%80%E1%80%BA%E1%80%99%E1%80%85%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%9B%E1%80%AD%E1%80%99%E1%80%BA%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA.jpg"
   },
   {
-    "id": "119",
+    "id": "120",
     "album": "ဒီဇင်ဘာအမှတ်တရ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%92%E1%80%AE%E1%80%87%E1%80%84%E1%80%BA%E1%80%98%E1%80%AC%E1%80%A1%E1%80%99%E1%80%BE%E1%80%90%E1%80%BA%E1%80%90%E1%80%9B.jpg"
   },
   {
-    "id": "120",
+    "id": "121",
     "album": "သူငယ်တော်ဖွါးမြင်ပြီ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%9E%E1%80%B0%E1%80%84%E1%80%9A%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%96%E1%80%BD%E1%80%AB%E1%80%B8%E1%80%99%E1%80%BC%E1%80%84%E1%80%BA%E1%80%95%E1%80%BC%E1%80%AE.jpg"
   },
   {
-    "id": "121",
+    "id": "122",
     "album": "ဒီဇင်ဘာရဲ့အဖြေ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%92%E1%80%AE%E1%80%87%E1%80%84%E1%80%BA%E1%80%98%E1%80%AC%E1%80%9B%E1%80%B2%E1%80%B7%E1%80%A1%E1%80%96%E1%80%BC%E1%80%B1.jpg"
   },
   {
-    "id": "122",
+    "id": "123",
     "album": "နှင်းလက်ဆောင်",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%94%E1%80%BE%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9C%E1%80%80%E1%80%BA%E1%80%86%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA.jpg"
   },
   {
-    "id": "123",
+    "id": "124",
     "album": "နှလုံးသားလေးထဲ မွေးဖွားခွင့်ပြုပါ",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%94%E1%80%BE%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%B1%E1%80%B8%E1%80%91%E1%80%B2%20%E1%80%99%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%81%E1%80%BD%E1%80%84%E1%80%B7%E1%80%BA%E1%80%95%E1%80%BC%E1%80%AF%E1%80%95%E1%80%AB.jpg"
   },
   {
-    "id": "124",
+    "id": "125",
     "album": "Christmas Carol Songs",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/Christmas%20Carol%20Songs.jpg"
   },
   {
-    "id": "125",
+    "id": "126",
     "album": "မြူး",
     "image_url": "https://pub-08331fa9079c428abc4d214375d7e8af.r2.dev/images/albums/%E1%80%99%E1%80%BC%E1%80%B0%E1%80%B8.jpg"
   }
